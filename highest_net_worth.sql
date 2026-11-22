@@ -1,0 +1,2 @@
+SELECT MAX(networth_billion) AS highest_net_worth
+FROM Top200RichestPersonintheWorld;

@@ -1,0 +1,2 @@
+SELECT distinct industry
+FROM Top200RichestPersonintheWorld;

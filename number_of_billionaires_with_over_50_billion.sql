@@ -1,0 +1,3 @@
+SELECT COUNT (networth_billion) AS number_of_billionaires_with_over_50_billion_net_worth
+FROM Top200RichestPersonintheWorld
+WHERE networth_billion > 50;

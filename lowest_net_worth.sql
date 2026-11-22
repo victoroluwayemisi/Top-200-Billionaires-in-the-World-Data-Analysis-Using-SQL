@@ -1,0 +1,2 @@
+SELECT MIN(networth_billion) AS lowest_net_worth
+FROM Top200RichestPersonintheWorld;
